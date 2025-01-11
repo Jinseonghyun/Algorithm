@@ -1,6 +1,5 @@
 package com.algorithm.CodingTraining.세개의구분자;
 
-import java.util.Arrays;
 class Solution {
     public String[] solution(String myStr) {
         myStr = myStr.replaceAll("[a|b|c]+", ",");
