@@ -1,4 +1,4 @@
-package com.algorithm.CodingTraining.배열만들기;
+package com.algorithm.CodingTraining.배열만들기5;
 
 import java.util.ArrayList;
 
